@@ -54,4 +54,4 @@ In **FlowerCatch Game**, flowers fall from the top of the screen, and the player
 2. Clone this repository:
 
 ```bash
-git clone https://github.com/RanimTayseer/Catch-the-Bloom-/edit/main/README.md
+git clone https://github.com/RanimTayseer/Catch-the-Bloom-
